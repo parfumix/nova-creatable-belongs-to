@@ -1,5 +1,5 @@
 {
-    "name": "sparclex/nova-creatable-belongs-to",
+    "name": "parfumix/nova-creatable-belongs-to",
     "description": "BelongsTo field for laravel nova which allows to choose or create a resource",
     "keywords": [
         "laravel",
